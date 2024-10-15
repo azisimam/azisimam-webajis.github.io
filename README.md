@@ -1,1 +1,1 @@
-azisimam/webajis.github.io
+azisimam/webajis.github.io/link.html
